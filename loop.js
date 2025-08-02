@@ -19,7 +19,13 @@
 // for (var i = 0; i < 5; i++){
 //     console.log('babu')
 // }
-var count = 5
-for (var i = 1; i < count; i++){
-    console.log(12,13,14)
+// var count = 5
+// for (var i = 1; i < count; i++){
+//     console.log(12,13,14)
+// }
+for ( let i = 1; i <10; i++){
+    if(i === 8){
+        break
+    }
+    console.log(i)
 }

@@ -4,8 +4,22 @@
 //     console.log(number [i])
 // } 
 
-const name = 'deluwar hosin babu';
-for(i=0; i<name.length;i++){
-    console.log(name);
+// var name = 'deluwar hosin babu';
+// for(i=0; i<name.length;i++){
+//     console.log(name);
+// }
+// // console.log(number);
+
+// var count = 5
+// for (var i = 1; i < 5; i++){
+//     console.log('count: '. i)
+// }
+
+// var babu = 5
+// for (var i = 0; i < 5; i++){
+//     console.log('babu')
+// }
+var count = 5
+for (var i = 1; i < count; i++){
+    console.log(12,13,14)
 }
-// console.log(number);

@@ -24,7 +24,7 @@
 //     console.log(12,13,14)
 // }
 for ( let i = 1; i <10; i++){
-    if(i === 8){
+    if(i === 5){
         break
     }
     console.log(i)

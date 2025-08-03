@@ -1,7 +1,7 @@
 const college = {
     name: 'vanc',
     class: '11', '12'
-    :  ['science fair', 'bijoy dibosh', '21 feb'],
+     event:  ['science fair', 'bijoy dibosh', '21 feb'],
     unique: {
         color: 'blue',
         result: 5
@@ -9,4 +9,6 @@ const college = {
 
 }
 // console.log(college.name)
+college.event[1] ='black'
+console.log(color[0])
 console.log(college.unique.result)
